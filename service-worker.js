@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/github.io/react-for-beginners/precache-manifest.bca72180605f4f93643ab91dd82b3f77.js"
+  "/react-for-beginners/precache-manifest.100eaf060ed54786dc15f5458730c53c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/github.io/react-for-beginners/index.html", {
+workbox.routing.registerNavigationRoute("/react-for-beginners/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
