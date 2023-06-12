@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "257ab90c7f8774af096e",
-    "url": "/react-for-beginners/static/js/main.257ab90c.chunk.js"
+    "revision": "0e8bfc2f381e666a3998",
+    "url": "/react-for-beginners/static/js/main.0e8bfc2f.chunk.js"
   },
   {
     "revision": "2e76ef4f4b07ab805959",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-for-beginners/static/js/runtime~main.4a02ab91.js"
   },
   {
-    "revision": "44c9afcfd92d841eb5237a5fb46d1e2e",
+    "revision": "ae97096a237b09400bf45b63d6a823b1",
     "url": "/react-for-beginners/index.html"
   }
 ];
