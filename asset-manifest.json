@@ -1,13 +1,13 @@
 {
-  "main.js": "/react-for-beginners.git/static/js/main.48b2cb8e.chunk.js",
-  "main.js.map": "/react-for-beginners.git/static/js/main.48b2cb8e.chunk.js.map",
-  "static/js/1.2e76ef4f.chunk.js": "/react-for-beginners.git/static/js/1.2e76ef4f.chunk.js",
-  "static/js/1.2e76ef4f.chunk.js.map": "/react-for-beginners.git/static/js/1.2e76ef4f.chunk.js.map",
-  "static/js/2.6180f752.chunk.js": "/react-for-beginners.git/static/js/2.6180f752.chunk.js",
-  "static/js/2.6180f752.chunk.js.map": "/react-for-beginners.git/static/js/2.6180f752.chunk.js.map",
-  "runtime~main.js": "/react-for-beginners.git/static/js/runtime~main.423d2603.js",
-  "runtime~main.js.map": "/react-for-beginners.git/static/js/runtime~main.423d2603.js.map",
-  "index.html": "/react-for-beginners.git/index.html",
-  "precache-manifest.e369381af609f694b9fdb35be7d17b38.js": "/react-for-beginners.git/precache-manifest.e369381af609f694b9fdb35be7d17b38.js",
-  "service-worker.js": "/react-for-beginners.git/service-worker.js"
+  "main.js": "/react-for-beginners/static/js/main.48b2cb8e.chunk.js",
+  "main.js.map": "/react-for-beginners/static/js/main.48b2cb8e.chunk.js.map",
+  "static/js/1.2e76ef4f.chunk.js": "/react-for-beginners/static/js/1.2e76ef4f.chunk.js",
+  "static/js/1.2e76ef4f.chunk.js.map": "/react-for-beginners/static/js/1.2e76ef4f.chunk.js.map",
+  "static/js/2.6180f752.chunk.js": "/react-for-beginners/static/js/2.6180f752.chunk.js",
+  "static/js/2.6180f752.chunk.js.map": "/react-for-beginners/static/js/2.6180f752.chunk.js.map",
+  "runtime~main.js": "/react-for-beginners/static/js/runtime~main.4a02ab91.js",
+  "runtime~main.js.map": "/react-for-beginners/static/js/runtime~main.4a02ab91.js.map",
+  "index.html": "/react-for-beginners/index.html",
+  "precache-manifest.100eaf060ed54786dc15f5458730c53c.js": "/react-for-beginners/precache-manifest.100eaf060ed54786dc15f5458730c53c.js",
+  "service-worker.js": "/react-for-beginners/service-worker.js"
 }
